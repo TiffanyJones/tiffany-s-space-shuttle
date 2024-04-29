@@ -7,7 +7,7 @@ body {
   }
   a {
     text-decoration: none;
-    color:#06aceb;
+    color:#441c98;
   }
   a:hover{
     text-decoration: underline;
@@ -16,13 +16,13 @@ body {
   /* Site header */
   header {
     text-align: center;
-    background-color: #06aceb;
+    background-color: #0ee8f8;
     position: sticky;
     top:0
   }
   
   header a {
-    color: #fff;
+    color: #0ae0ec;
     padding: 20px 20px;
     display: inline-block;
     padding: 16px 20px;
@@ -35,7 +35,7 @@ body {
   .hero {
     padding: 30px 0;
     text-align: center;
-    color: white;
+    color: rgb(11, 204, 242);
     background-image: url("images/space.jpg");
     border-bottom: 8px solid #e6e0ea;
     background-size: cover;
@@ -44,7 +44,7 @@ body {
   }
   .featured-img {
     width: 140px;
-    border: solid #e6e0ea;
+    border: solid #0dd5ef;
     border-radius: 50%;
     /* position: absolute;
     top: right; */
@@ -74,7 +74,7 @@ body {
     padding: 24px 0;
   }
   footer a {
-    color: #fff;
+    color: #06c7ee;
   }
   
   /* Media queries */
